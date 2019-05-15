@@ -1,11 +1,5 @@
-#project name 
+#project name : east chat
  
- east chat
- 
- #design by
+ #design by : xiao
 
-  xiao
-
-#created at
-
-2019/5/15
+#created at : 2019/5/15
